@@ -1,0 +1,1 @@
+gradlew installdebug && adb shell am start -n com.example.bryan.sqlitenote/com.example.bryan.sqlitenote.MainActivity
